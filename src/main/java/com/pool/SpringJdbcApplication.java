@@ -32,5 +32,6 @@ public class SpringJdbcApplication implements CommandLineRunner {
 			System.out.println("---------------------------------");
 		});
 
+
 	}
 }
